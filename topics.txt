@@ -1,3 +1,0 @@
-1. P2P communication
-2. cryptography 
-3. 
